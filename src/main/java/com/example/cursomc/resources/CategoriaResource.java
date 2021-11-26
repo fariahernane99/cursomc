@@ -13,4 +13,5 @@ public class CategoriaResource {
 		return "REST está funcionando!";
 	}
 	
+	
 }
